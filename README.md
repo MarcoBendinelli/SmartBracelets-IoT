@@ -1,4 +1,4 @@
-# Smart Bracelets
+# Smart Bracelets :white_circle:
 
 The project involves creating a pair of _smart_ bracelets: one for the child and one for the parent. These bracelets track the child's position and behavior, sending alerts when the child goes too far or falls. Here's a summary of how the bracelets operate:
 
